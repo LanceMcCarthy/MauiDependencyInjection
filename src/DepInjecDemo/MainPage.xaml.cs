@@ -7,8 +7,7 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 	}
-
-    // Note: This is what is not working for me
+    
     public MainPage(MainViewModel vm)
     {
         InitializeComponent();
