@@ -1,2 +1,2 @@
-# MauiDependencyInjection
-A demo project to verify certain parts of dependency injection are working.
+# Maui Dependency Injection
+A demo project to investigate and verify certain parts of dependency injection are working.
